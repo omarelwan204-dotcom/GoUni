@@ -1,0 +1,8 @@
+{
+  "name": "GoUni - University Consulting",
+  "description": "Professional guidance for private and national university admissions in Egypt and beyond.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
